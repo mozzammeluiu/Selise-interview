@@ -1,0 +1,65 @@
+.task {
+  display: flex;
+  justify-content: flex-end;
+}
+.add-task {
+  color: #141414;
+  font-size: 14px;
+  border: 1px solid #f2f2f2;
+  border-radius: 16px;
+}
+.modal-close {
+  display: flex;
+  justify-content: flex-end;
+}
+.modal-close-btn {
+  color: #141414;
+  font-size: 14px;
+  border: 1px solid #f2f2f2;
+  border-radius: 16px;
+}
+.inputs {
+  width: 100%;
+  display: flex;
+}
+.title {
+  width: 100%;
+}
+.title-label {
+  color: blue;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+.title-input {
+  height: 35px;
+  width: 90%;
+}
+.title-error {
+  margin: 10px 0 10px 0 !important;
+  color: red;
+  font-size: 12px;
+}
+.description-error {
+  margin: 0 0 10px 0 !important;
+  color: red;
+  font-size: 12px;
+}
+.submit-btn {
+  color: #141414;
+  background-color: azure;
+  border-color: 1px solid #f2f2f2;
+  border-radius: 16px;
+  font-size: 12px;
+}
+.select-field {
+}
+.select-field-label {
+  color: blue;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+.select-field-input {
+  width: 100%;
+  height: 35px;
+  margin-bottom: 10px;
+}
